@@ -1,0 +1,9 @@
+Araba tespit ve sayımı
+
+Bu projede videoda bulunan araçların tespiti ve sayımı yapılmaktadır. Bu projeyle trafik yoğunluğunu ölçmeyi amaçlamaktayız.
+
+proje grubu 
+İlayda Yıldız      203405070
+Alperen Aydın      203405017
+Oğuzhan Sönmez     203405062
+
